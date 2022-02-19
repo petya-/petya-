@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=petya-&langs_count=5&theme=tokyonight)]()
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petya-&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petya-&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petya-&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petya-&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petya-&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petya-&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petya-&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=petya-&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petya-&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=petya-&theme=monokai)
